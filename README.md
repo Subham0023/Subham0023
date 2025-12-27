@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" /> <!-- Add react,tailwind if applicable -->
 
 #### 🧠 Backend & DevTools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,java,spring,hibernate,nodejs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,java,spring,hibernate,maven,nodejs" />
 
 #### 🖼️ Creative Tools
 <!-- e.g., <img src="https://skillicons.dev/icons?i=figma,photoshop" /> if you use them -->
