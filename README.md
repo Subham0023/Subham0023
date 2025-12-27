@@ -2,7 +2,7 @@
 
 ### Aspiring Front-End Developer | Building Clean & Responsive Web Experiences
 
-###### Hello, I'm Subham, a passionate developer focused on creating user-friendly and responsive web applications. I enjoy turning ideas into functional, elegant code – from simple landing pages to interactive e-commerce sites. Based in [Your Location, e.g., India], I'm constantly learning and building projects to sharpen my skills. Open to collaborations and new opportunities!
+###### Hello, I'm Subham, a passionate developer focused on creating user-friendly and responsive web applications. I enjoy turning ideas into functional, elegant code – from simple landing pages to interactive e-commerce sites. Based in Bangalore, I'm constantly learning and building projects to sharpen my skills. Open to collaborations and new opportunities!
 
 ---
 
