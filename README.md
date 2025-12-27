@@ -11,7 +11,7 @@
 - 🔨 Currently working on **personal frontend projects** like an e-commerce website and interactive resumes
 - 🌱 Exploring **HTML, CSS, JavaScript, and modern frameworks** to build better UIs
 - 👯 Open to collaborating on **open-source web projects or beginner-friendly repos**
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)** or via LinkedIn
+- 📫 Reach me at: **[your.email@example.com](mailto:subhamd931@gmail.com)** or via LinkedIn
 
 ---
 
@@ -21,10 +21,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
 #### 🧑‍🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> <!-- Add react,tailwind if applicable -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux" /> <!-- Add react,tailwind if applicable -->
 
 #### 🧠 Backend & DevTools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,java,springboot,hibernate" />
 
 #### 🖼️ Creative Tools
 <!-- e.g., <img src="https://skillicons.dev/icons?i=figma,photoshop" /> if you use them -->
@@ -37,8 +37,8 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/your-linkedin-username) 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:your.email@example.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)]([(https://www.linkedin.com/in/subham-das-633638264/)) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:subhamd931@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=google-chrome&style=flat)](https://yourportfolio.link) <!-- If you have one -->
 
 **Thanks for visiting! 🚀**
