@@ -1,4 +1,4 @@
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685169595473/aceae932-a496-47a7-8df9-b212d28f260a.png" alt="Cool Developer Banner" />
+
 
 # Hi there 👋, I'm Subham!
 
