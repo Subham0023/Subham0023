@@ -1,34 +1,44 @@
+# Hi 👋, I'm Subham
 
+### Aspiring Front-End Developer | Building Clean & Responsive Web Experiences
 
-# Hi there 👋, I'm Subham!
+###### Hello, I'm Subham, a passionate developer focused on creating user-friendly and responsive web applications. I enjoy turning ideas into functional, elegant code – from simple landing pages to interactive e-commerce sites. Based in [Your Location, e.g., India], I'm constantly learning and building projects to sharpen my skills. Open to collaborations and new opportunities!
 
-<a href="https://github.com/Subham0023">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Subham0023&show_icons=true&theme=radical&hide_border=true" alt="Subham's GitHub Stats" />
-</a>
+---
 
-- 🔭 I'm currently working on [add your current project or "personal projects in web development/AI/etc."]
-- 🌱 I'm learning [e.g., React, Python, Machine Learning – whatever you're focusing on]
-- 👯 I'm open to collaborating on [e.g., open-source projects, web apps]
-- 💬 Ask me about [e.g., JavaScript, Git, or anything you're good at]
-- 📫 Reach me at: [your.email@example.com] or LinkedIn/Twitter
-- ⚡ Fun fact: [something fun, e.g., "I love building things that solve real problems!"]
+### 👨‍💻 About Me
 
-<br/><br/><br/><br/><br/><br/>
+- 🔨 Currently working on **personal frontend projects** like an e-commerce website and interactive resumes
+- 🌱 Exploring **HTML, CSS, JavaScript, and modern frameworks** to build better UIs
+- 👯 Open to collaborating on **open-source web projects or beginner-friendly repos**
+- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)** or via LinkedIn
 
-### 🛠️ Tech Stack & Skills
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" /><br/>
-<!-- Add/remove icons from https://skillicons.dev – just comma-separate them -->
+---
 
-### 📊 More Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham0023&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+### 💻 Tech Stack
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subham0023&theme=radical&hide_border=true" alt="GitHub Streak" />
+#### 🚀 Languages
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)  
-[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)  
-[![Email](https://img.shields.io/badge/Email-Me-red?logo=gmail)](mailto:your.email@example.com)
+#### 🧑‍🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> <!-- Add react,tailwind if applicable -->
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Subham0023.Subham0023)
+#### 🧠 Backend & DevTools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-**Thanks for stopping by! 🚀**
+#### 🖼️ Creative Tools
+<!-- e.g., <img src="https://skillicons.dev/icons?i=figma,photoshop" /> if you use them -->
+
+---
+
+### ✍️ Dev Quote
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/your-linkedin-username) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:your.email@example.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=google-chrome&style=flat)](https://yourportfolio.link) <!-- If you have one -->
+
+**Thanks for visiting! 🚀**
