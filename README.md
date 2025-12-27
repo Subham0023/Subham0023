@@ -11,7 +11,7 @@
 - 🔨 Currently working on **personal frontend projects** like an e-commerce website and interactive resumes
 - 🌱 Exploring **HTML, CSS, JavaScript, and modern frameworks** to build better UIs
 - 👯 Open to collaborating on **open-source web projects or beginner-friendly repos**
-- 📫 Reach me at: **[your.email@example.com](mailto:subhamd931@gmail.com)** or via LinkedIn
+- 📫 Reach me at: **[subhamd931@gmail.com](mailto:subhamd931@gmail.com)** or via LinkedIn
 
 ---
 
@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" /> <!-- Add react,tailwind if applicable -->
 
 #### 🧠 Backend & DevTools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,java,springboot,hibernate" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,java,spring,hibernate,nodejs" />
 
 #### 🖼️ Creative Tools
 <!-- e.g., <img src="https://skillicons.dev/icons?i=figma,photoshop" /> if you use them -->
