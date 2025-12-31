@@ -1,44 +1,44 @@
-# Hi 👋, I'm Subham
+# Hi 👋, I'm Subham Das
+### Aspiring Full-Stack Developer | Building Responsive & User-Friendly Web Applications
+###### Hello, I'm a recent Computer Science graduate from Bhubaneswar, Odisha, passionate about full-stack development. Proficient in modern web technologies, I love creating clean, efficient, and responsive applications – from task managers to e-commerce platforms. Always learning and building projects to grow my skills. Open to opportunities and collaborations!
 
-### Aspiring Front-End Developer | Building Clean & Responsive Web Experiences
+<grok-card data-id="082b96" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
-###### Hello, I'm Subham, a passionate developer focused on creating user-friendly and responsive web applications. I enjoy turning ideas into functional, elegant code – from simple landing pages to interactive e-commerce sites. Based in Bangalore, I'm constantly learning and building projects to sharpen my skills. Open to collaborations and new opportunities!
+
+
+<grok-card data-id="f4e878" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
 
 ---
-
 ### 👨‍💻 About Me
-
-- 🔨 Currently working on **personal frontend projects** like an e-commerce website and interactive resumes
-- 🌱 Exploring **HTML, CSS, JavaScript, and modern frameworks** to build better UIs
-- 👯 Open to collaborating on **open-source web projects or beginner-friendly repos**
-- 📫 Reach me at: **[subhamd931@gmail.com](mailto:subhamd931@gmail.com)** or via LinkedIn
+- 🔨 Built projects like **TideFlow** (Task Management App) and **HypeGear** (Sports E-Commerce Site)
+- 🌱 Currently pursuing **Java & Python Full-Stack Development** certification at KodNest
+- 👯 Open to collaborating on **web development or open-source projects**
+- 📫 Reach me at: **[subhamd931@gmail.com](mailto:subhamd931@gmail.com)**
+- 📍 Bhubaneswar, Odisha, India
 
 ---
-
 ### 💻 Tech Stack
 
-#### 🚀 Languages
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+#### 🚀 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,js" />
 
-#### 🧑‍🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux" /> <!-- Add react,tailwind if applicable -->
+#### 🧑‍🎨 Frontend & Web Technologies
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 
-#### 🧠 Backend & DevTools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,java,spring,hibernate,maven,nodejs" />
+#### 🛠️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=spring,hibernate,django,mysql" />
 
-#### 🖼️ Creative Tools
-<!-- e.g., <img src="https://skillicons.dev/icons?i=figma,photoshop" /> if you use them -->
+#### 🔧 Tools & Others
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
-
 ### ✍️ Dev Quote
-
 > "First, solve the problem. Then, write the code." – John Johnson
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)]([(www.linkedin.com/in/subham-das0023)) 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:subhamd931@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=google-chrome&style=flat)](https://yourportfolio.link) <!-- If you have one -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/subham-das0023)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:subhamd931@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat)](https://github.com/Subham0023)
 
 **Thanks for visiting! 🚀**
