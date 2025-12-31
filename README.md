@@ -37,7 +37,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)]([(https://www.linkedin.com/in/subham-das-633638264/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)]([(www.linkedin.com/in/subham-das0023)) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:subhamd931@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=google-chrome&style=flat)](https://yourportfolio.link) <!-- If you have one -->
 
